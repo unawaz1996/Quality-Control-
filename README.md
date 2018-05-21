@@ -1,2 +1,5 @@
-# Quality-Control-
-Codes used for assessing the quality of raw Illumina reads for the Giant Australian Cuttlefish
+#Quality Control
+
+The codes were mainly used to clean up Illumina RNA-seq raw reads for my honours thesis project
+
+#Programs used 
