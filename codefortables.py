@@ -1,5 +1,7 @@
 
 #Creating a code that will allow me to summarise my FastQC intial results 
+#USAGE: python codefortables.py
+
 file = "summary.txt"  #this defines what file is 
 
 # read lines of the summary files 
