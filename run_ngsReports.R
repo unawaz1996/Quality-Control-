@@ -1,4 +1,3 @@
-#!/usr/bin/env Rscript
 # checking the quality of the reads
 # Multiple plot function
 library(ngsReports)
